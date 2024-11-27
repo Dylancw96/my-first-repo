@@ -1,1 +1,2 @@
-var name = "John Doe";
+var name = "John";
+var greeting = "Hello";
