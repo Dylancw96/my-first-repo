@@ -1,0 +1,6 @@
+# local env files
+.env*
+
+#miscellaneous
+.vscode
+/folder_name
